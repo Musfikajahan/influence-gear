@@ -1,6 +1,7 @@
 .first {
     font-size: 50px;
-    font-style: inherit;
+    font-style: inherit; 
+    margin-bottom: 30px;
 }
 
 .second {
